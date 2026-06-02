@@ -33,4 +33,15 @@ Cada etapa pode ser aberta e executada diretamente no Colab pelos links abaixo.
 
 ## ETAPA 6 — Desagregação
 🔗 https://colab.research.google.com/drive/1BTVbLhCO-_DZnw63dhuT9-rI5jhjMxAb
- 
+
+---
+
+## ETAPA 7 — Análise Espacial (INCOMPLETO)
+🔗 [https://colab.research.google.com/drive/1BTVbLhCO-_DZnw63dhuT9-rI5jhjMxAb](https://colab.research.google.com/drive/17HcPS9LpwWRSx1L3OiyrPxFDPX7Cy9lq#scrollTo=jRDZIwZWfYQ3)
+
+---
+
+## ETAPA 8 — Validação Pesos do Método Dasimétrico
+🔗 [https://colab.research.google.com/drive/1BTVbLhCO-_DZnw63dhuT9-rI5jhjMxAb](https://colab.research.google.com/drive/1K-EH3So0TE3_SfW564iTHPMJt0p1-jp4#scrollTo=liOls0SkBtPt)
+
+
